@@ -3,7 +3,7 @@ layout: post
 title: Publiczny Rejestr Zgłoszeń Straży Miejskiej Wrocław
 img: "assets/img/portfolio/circus.png"
 date: September 2014
-tags: [Straz] [InformacjaPubliczna] [OpenData] [CivicTech]
+tags: [Straz, InformacjaPubliczna, OpenData, CivicTech]
 ---
 
 ![image]({{ site.baseurl }}/{{ page.img }})
