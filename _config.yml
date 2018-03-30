@@ -16,18 +16,18 @@ theme_settings:
      <p>Wspieramy dobre postawy obywatelskie.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Copyright © Sigma Foundation 2018
+   Copyright © Fundacja Sigma 2018
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: ""info@sigma.ngo# Full email address, e.g. "sam@example.com"
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
+  email_address: "info@sigma.ngo" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "sigmango-1944008792504750"
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "sigmango"
   google_plus:
   instagram:
   keybase:
