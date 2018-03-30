@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature images
+title: Nowa strona Fundacji
 feature-img: "assets/img/pexels/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [Sigma, SigmaWww]
