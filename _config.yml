@@ -6,7 +6,7 @@ url: "https://farmazon3000.github.io"
 theme_settings:
   # Meta
   title: Fundacja Sigma
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/sigma.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Fundacja Sigma to polska, niezależna organizacja pozarządowa pracująca w obszarach nowych technologii, informacji publicznej, otwartości, e-administracji oraz rozwijania właściwych postaw obywatelskich wśród dzieci i młodzieży." # used by search engines
