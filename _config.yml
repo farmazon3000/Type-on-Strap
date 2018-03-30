@@ -5,22 +5,22 @@ url: "https://farmazon3000.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
+  title: Fundacja Sigma
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Fundacja Sigma to polska, niezależna organizacja pozarządowa pracująca w obszarach nowych technologii, informacji publicznej, otwartości, e-administracji oraz rozwijania właściwych postaw obywatelskich wśród dzieci i młodzieży." # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>Wspieramy dobre postawy obywatelskie.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Copyright © Sigma Foundation 2018
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: ""info@sigma.ngo# Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
